@@ -1,0 +1,2 @@
+hi to add a tag we use git tag -a version -m "message"
+to get infor mation we use git show version
