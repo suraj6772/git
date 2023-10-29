@@ -1,0 +1,2 @@
+to add a branch we use git checkout -b name of the branch
+to know how many branch we use git branch
